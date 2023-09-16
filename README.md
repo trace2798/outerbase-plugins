@@ -11,3 +11,5 @@
 ## A very detailed article to recreate this plugin on [Hashnode](https://shreyas-chaliha.hashnode.dev/connecting-the-dots-creating-a-plugin-in-outerbase)
 
 word-checker.js is another plugin to Analyze for specific words, but it does not work all the time like expected. 
+
+Demo Video: [Outerbase Plugin: Drop. Upload. Update](https://youtu.be/7QrYvl5xC00)

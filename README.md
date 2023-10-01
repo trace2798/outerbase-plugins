@@ -6,7 +6,7 @@
 
 #### Hashnode article: [Connecting the Dots: Creating a plugin in Outerbase](https://shreyas-chaliha.hashnode.dev/connecting-the-dots-creating-a-plugin-in-outerbase) 
 
-### You can use this repo as a reference to create your own application using Outerbase.
+### You can use this repo as a reference to create your own Outerbase plugin.
 
 ## A very detailed article to recreate this plugin on [Hashnode](https://shreyas-chaliha.hashnode.dev/connecting-the-dots-creating-a-plugin-in-outerbase)
 
